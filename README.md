@@ -2,6 +2,8 @@
 
 A real-time project management application built with React and Firebase, featuring team collaboration, project tracking, and real-time updates.
 
+[![Deploy to Firebase](https://github.com/ShuwenWuCitrus/the-dojo/actions/workflows/firebase-deploy.yml/badge.svg)](https://github.com/ShuwenWuCitrus/the-dojo/actions/workflows/firebase-deploy.yml)
+
 ## 🚀 Features
 
 - **User Authentication**
